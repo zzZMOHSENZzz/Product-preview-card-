@@ -67,7 +67,7 @@ body {
   color: var(--h2-color);
   font-family: 'Fraunces', serif;
   text-transform: capitalize;
-  font-size: 35px;
+  font-size: 30px;
 }
 
 .container .info .description {
